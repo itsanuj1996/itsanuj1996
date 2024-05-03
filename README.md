@@ -1,5 +1,5 @@
 
-Hello, I'm Anuj Singh .Interested in learning and exploring more about Platform/Infra engineering, DevOps, Frontend and Backend Development.
+Hello, I'm Anuj Singh interested in learning and exploring more about Platform/Infra engineering, DevOps, Frontend and Backend Development.
 
 <!---
 itsanuj1996/itsanuj1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
