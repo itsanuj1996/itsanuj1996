@@ -51,14 +51,3 @@ You can click the Preview link to take a look at your changes.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge)
-
----
-
-## 🚀 Specialization
-💳 FinTech Systems • Wallet Architecture • High-Scale APIs • Microservices  
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)  
-- 🌐 Portfolio: (if any)  
