@@ -37,25 +37,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsanuj1996&theme=tokyonight&hide_border=true" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=itsanuj1996&theme=tokyonight&hide_border=true" />
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsanuj1996/itsanuj1996/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
