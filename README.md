@@ -2,7 +2,7 @@
 
 🚀 Senior Full Stack Developer from India  
 💻 Passionate about Platform Engineering, DevOps, Backend Systems & Scalable Architectures  
-⚡ Building high-performance applications using Node.js, Angular & Microservices
+⚡ Building scalable applications using Node.js, Angular, React & Microservices
 
 ---
 
@@ -17,20 +17,29 @@
 
 ## 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="left">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsanuj1996&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsanuj1996&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -38,7 +47,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -46,15 +55,23 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/itsanuj1996/itsanuj1996/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/itsanuj1996)
+<p align="left">
+
+<a href="https://github.com/itsanuj1996" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=itsanuj1996&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsanuj1996&label=Profile%20views&color=0e75b6&style=flat" alt="itsanuj1996" />
+</p>
