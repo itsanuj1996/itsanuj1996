@@ -34,18 +34,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -55,19 +43,3 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/itsanuj1996" target="blank">
-<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsanuj1996&label=Profile%20views&color=0e75b6&style=flat" alt="itsanuj1996" />
-</p>
