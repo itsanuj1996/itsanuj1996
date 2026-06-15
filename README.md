@@ -4,8 +4,6 @@
 💻 Passionate about Platform Engineering, DevOps, Backend Systems & Scalable Architectures  
 ⚡ Building scalable applications using Node.js, Angular, React & Microservices
 
----
-
 ## 🔥 About Me
 
 - 🌱 Exploring **Platform Engineering & Cloud Infrastructure**
