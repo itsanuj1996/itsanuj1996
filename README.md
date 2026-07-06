@@ -7,8 +7,8 @@
 ## 🔥 About Me
 
 - 🌱 Exploring **Platform Engineering & Cloud Infrastructure**
-- 🏗️ Experienced in **Microservices Architecture & Banking Systems**
-- 📦 Building scalable transaction and wallet management systems
+- 🏗️ Experienced in **Microservices Architecture**
+- 📦 Building scalable systems
 - 🚀 Interested in DevOps, System Design & Distributed Systems
 
 ---
