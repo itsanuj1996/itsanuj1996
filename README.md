@@ -1,78 +1,110 @@
 <h1 align="center">Anuj Singh</h1>
 
 <p align="center">
-  <strong>Senior Full Stack Developer</strong><br />
-  Building scalable web, mobile, and backend systems with a product-minded engineering approach.
+  <strong>Senior Full Stack Developer | Platform-Minded Product Engineer</strong><br />
+  I build fast, scalable, and elegant digital products across web, mobile, backend, and cloud.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Angular+%2B+Ionic+apps+with+polished+UX;Node.js+APIs+and+microservice-ready+systems;Cloud-ready+products+with+Docker%2C+AWS%2C+Firebase;Clean+architecture.+Fast+delivery.+Real+business+impact." alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsanuj1996&style=for-the-badge&color=38bdf8" alt="Profile views" />
   <a href="https://github.com/itsanuj1996?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Portfolio-Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repositories" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=itsanuj1996&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Products-0f766e?style=for-the-badge" alt="Focus scalable products" />
 </p>
 
 ---
 
-### About
+### Snapshot
 
-I am a full-stack engineer focused on building reliable, maintainable applications across frontend, backend, cloud, and mobile layers. My work is centered on practical architecture: clean APIs, scalable services, usable interfaces, and systems that stay understandable as they grow.
+I am a senior full-stack developer from India who enjoys turning product ideas into production-ready systems. I work across the full application surface: polished user interfaces, clean backend APIs, mobile-first flows, database design, cloud infrastructure, and deployment pipelines.
 
-Currently, I am sharpening my work around platform engineering, cloud infrastructure, DevOps workflows, distributed systems, and production-ready application architecture.
-
----
-
-### Core Strengths
-
-- Full-stack application development with Angular, React, Ionic, Node.js, and PHP
-- Backend systems, REST APIs, real-time features, and microservice-oriented architecture
-- Cloud-ready engineering with Docker, AWS, PostgreSQL, MongoDB, Redis, and Firebase
-- Product-focused implementation across booking flows, marketplaces, dashboards, and mobile apps
-- Performance, maintainability, clean code structure, and scalable feature delivery
+My sweet spot is building practical software that looks good, works reliably, and can keep growing without becoming painful to maintain.
 
 ---
 
-### Tech Stack
+### Builder Mode
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React%20%7C%20Ionic-0F172A?style=flat-square" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20PHP%20%7C%20APIs-1E293B?style=flat-square" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-334155?style=flat-square" alt="Database stack" />
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>Angular, React, Ionic, responsive UI, mobile-first product experiences</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, PHP, REST APIs, authentication, real-time workflows, service design</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL, MongoDB, Redis, Firebase, practical data modeling</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td>Docker, AWS, CI/CD thinking, deployment-ready architecture</td>
+  </tr>
+  <tr>
+    <td><strong>Product</strong></td>
+    <td>Booking platforms, dashboards, marketplaces, creator tools, admin systems</td>
+  </tr>
+</table>
+
+---
+
+### Tech Playground
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,react,php,html,css,sass,postgres,mongodb,redis,docker,aws,firebase,git,github,vscode" alt="Technology icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React%20%7C%20Ionic-0f172a?style=flat-square" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20PHP%20%7C%20REST-1e293b?style=flat-square" alt="Backend stack" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-334155?style=flat-square" alt="Database stack" />
   <img src="https://img.shields.io/badge/Cloud-Docker%20%7C%20AWS%20%7C%20Firebase-475569?style=flat-square" alt="Cloud stack" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,react,php,postgres,mongodb,redis,docker,aws,firebase,html,css,git" alt="Technology icons" />
-</p>
+---
+
+### What I Build Best
+
+- Premium web and mobile experiences with Angular, Ionic, and React
+- Scalable APIs and backend systems with clear service boundaries
+- Admin dashboards, booking engines, marketplace flows, and business tools
+- Real-time features with notifications, sockets, and event-driven workflows
+- Clean project foundations that make future features easier to ship
 
 ---
 
-### What I Like Building
+### Current Direction
 
-- Scalable backend systems with clear service boundaries
-- Rich Angular/Ionic applications for web and mobile
-- Admin panels, booking systems, marketplace flows, and creator platforms
-- Real-time experiences using sockets, notifications, and event-driven workflows
-- Developer-friendly foundations that make future features easier to ship
+- Deepening platform engineering and DevOps workflows
+- Building stronger public projects with polished documentation
+- Exploring distributed systems, cloud architecture, and automation
+- Improving product quality through better UI detail, performance, and maintainability
 
 ---
 
-### GitHub Activity
+### GitHub Pulse
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Anuj Singh GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsanuj1996&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Anuj Singh GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuj1996&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsanuj1996&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=itsanuj1996&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### Engineering Values
+### Engineering Style
 
-- Build simple first, scale with intention
-- Prefer clear ownership, readable code, and practical abstractions
-- Treat product experience and system design as connected work
-- Keep learning across cloud, automation, architecture, and delivery
+```txt
+Think clearly. Build cleanly. Ship practically. Improve continuously.
+```
+
+I care about readable code, thoughtful architecture, fast feedback loops, and product experiences that feel smooth in real use.
